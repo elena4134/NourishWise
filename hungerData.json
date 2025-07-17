@@ -1,0 +1,37 @@
+{
+  "Niger": {
+    "stats": [
+      "1.7 million people are food insecure.",
+      "45% of children between 6 months and 4 years old are malnourished."
+    ],
+    "flag": "https://flagcdn.com/w320/ne.png"
+  },
+  "Ethiopia": {
+    "stats": [
+      "20 million people need food assistance.",
+      "Severe drought impacts rural farmers."
+    ],
+    "flag": "https://flagcdn.com/w320/et.png"
+  },
+    "Germany": {
+      "flag": "https://flagcdn.com/w320/de.png",
+      "capital": "Berlin",
+      "population": "83000000",
+      "starved": "8200000",
+      "hunger": "14 million people struggle with food access.",
+      "deaths": "Approximately 90,000 deaths from hunger-related issues annually.",
+      "access": "1 in 5 households lack access to nutritious food."
+  },
+  "Malaysia": {
+    "flag": "https://flagcdn.com/w320/de.png",
+    "capital": "Kuala Lumpur",
+    "population": "83000000",
+    "starved": "8200000",
+    "hunger": "14 million people struggle with food access.",
+    "deaths": "Approximately 90,000 deaths from hunger-related issues annually.",
+    "access": "1 in 5 households lack access to nutritious food."
+  }
+}
+
+
+
